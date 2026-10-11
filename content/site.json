@@ -1,16 +1,16 @@
 {
   "eyebrow": "MANHATTAN REAL ESTATE",
-  "introduction": "Thoughtful guidance, local perspective, and personalized representation in New York City real estate.",
-  "portrait": "",
-  "feature_image": "",
+  "introduction": "Thoughtful guidance, local perspective, and personalized representation in Manhattan real estate.",
+  "portrait": "/media/business.jpg",
+  "feature_image": "/media/290WENDAVE14C Living Room.png",
   "feature_label": "FEATURED RESIDENCE",
-  "feature_title": "290 West End Avenue, Residence 14C",
+  "feature_title": "290 West End Avenue, 14C",
   "feature_description": "Explore this Upper West Side residence and its beautifully proportioned living spaces.",
-  "feature_url": "",
-  "listings_url": "",
-  "insights_url": "",
-  "about_url": "",
-  "contact_email": "",
+  "feature_url": "https://www.elliman.com/listing/290-w-end-ave-14c-new-york-ny-10023/16858808",
+  "listings_url": "https://www.elliman.com/sales/team-id=226291",
+  "insights_url": "https://elliman.com/media/Douglas_Elliman_Quarterly_Report_Manhattan_Q3_2026_FINAL_2_3302a35b92.pdf",
+  "about_url": "https://www.elliman.com/agent/michael-orme/1029280",
+  "contact_email": "michael.orme@elliman.com",
   "instagram_url": "https://www.instagram.com/m.orme.nyc/",
-  "linkedin_url": ""
+  "linkedin_url": "www.linkedin.com/in/michaelorme"
 }
