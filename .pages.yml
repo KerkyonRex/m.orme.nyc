@@ -1,0 +1,23 @@
+media:
+  input: media
+  output: /media
+content:
+  - name: website
+    label: Michael Orme Website
+    type: file
+    path: content/site.json
+    fields:
+      - { name: eyebrow, label: Intro Label, type: string }
+      - { name: introduction, label: Intro Text, type: text }
+      - { name: portrait, label: Portrait or Header Image, type: image }
+      - { name: feature_image, label: Featured Property Photo, type: image }
+      - { name: feature_label, label: Featured Section Label, type: string }
+      - { name: feature_title, label: Featured Property Title, type: string }
+      - { name: feature_description, label: Featured Property Description, type: text }
+      - { name: feature_url, label: Featured Property Link, type: string }
+      - { name: listings_url, label: All Listings Link, type: string }
+      - { name: insights_url, label: Market Insights Link, type: string }
+      - { name: about_url, label: About Me Link, type: string }
+      - { name: contact_email, label: Contact Email, type: string }
+      - { name: instagram_url, label: Instagram Link, type: string }
+      - { name: linkedin_url, label: LinkedIn Link (Optional), type: string }
